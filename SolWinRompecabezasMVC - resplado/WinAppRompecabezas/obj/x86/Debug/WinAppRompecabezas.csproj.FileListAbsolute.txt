@@ -1,0 +1,90 @@
+C:\Users\Cesar\Desktop\Documentos Nov 2011\IA\Razonamientos Hacia Adelante y Hacia Atras\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\WinAppRompecabezas\bin\Debug\WinAppRompecabezas.exe
+C:\Users\Cesar\Desktop\Documentos Nov 2011\IA\Razonamientos Hacia Adelante y Hacia Atras\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\WinAppRompecabezas\bin\Debug\WinAppRompecabezas.pdb
+C:\Users\Cesar\Desktop\Documentos Nov 2011\IA\Razonamientos Hacia Adelante y Hacia Atras\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\WinAppRompecabezas\bin\Debug\ComponenteJuego.dll
+C:\Users\Cesar\Desktop\Documentos Nov 2011\IA\Razonamientos Hacia Adelante y Hacia Atras\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\WinAppRompecabezas\bin\Debug\ComponenteJuego.pdb
+C:\Users\Cesar\Desktop\Documentos Nov 2011\IA\Razonamientos Hacia Adelante y Hacia Atras\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\WinAppRompecabezas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Cesar\Desktop\Documentos Nov 2011\IA\Razonamientos Hacia Adelante y Hacia Atras\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\WinAppRompecabezas\obj\x86\Debug\WinAppRompecabezas.frmAcercaDe.resources
+C:\Users\Cesar\Desktop\Documentos Nov 2011\IA\Razonamientos Hacia Adelante y Hacia Atras\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\WinAppRompecabezas\obj\x86\Debug\WinAppRompecabezas.frmConfiguracion.resources
+C:\Users\Cesar\Desktop\Documentos Nov 2011\IA\Razonamientos Hacia Adelante y Hacia Atras\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\WinAppRompecabezas\obj\x86\Debug\WinAppRompecabezas.frmContenido.resources
+C:\Users\Cesar\Desktop\Documentos Nov 2011\IA\Razonamientos Hacia Adelante y Hacia Atras\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\WinAppRompecabezas\obj\x86\Debug\WinAppRompecabezas.frmRompecabezas.resources
+C:\Users\Cesar\Desktop\Documentos Nov 2011\IA\Razonamientos Hacia Adelante y Hacia Atras\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\WinAppRompecabezas\obj\x86\Debug\WinAppRompecabezas.Properties.Resources.resources
+C:\Users\Cesar\Desktop\Documentos Nov 2011\IA\Razonamientos Hacia Adelante y Hacia Atras\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\WinAppRompecabezas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Cesar\Desktop\Documentos Nov 2011\IA\Razonamientos Hacia Adelante y Hacia Atras\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\WinAppRompecabezas\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Cesar\Desktop\Documentos Nov 2011\IA\Razonamientos Hacia Adelante y Hacia Atras\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\WinAppRompecabezas\obj\x86\Debug\WinAppRompecabezas.exe
+C:\Users\Cesar\Desktop\Documentos Nov 2011\IA\Razonamientos Hacia Adelante y Hacia Atras\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\WinAppRompecabezas\obj\x86\Debug\WinAppRompecabezas.pdb
+D:\Documentos Nov 2011\IA\Razonamientos Hacia Adelante y Hacia Atras\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\WinAppRompecabezas\obj\x86\Debug\WinAppRompecabezas.exe
+D:\Documentos Nov 2011\IA\Razonamientos Hacia Adelante y Hacia Atras\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\WinAppRompecabezas\obj\x86\Debug\WinAppRompecabezas.pdb
+D:\Documentos Nov 2011\IA\Razonamientos Hacia Adelante y Hacia Atras\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\WinAppRompecabezas\bin\Debug\WinAppRompecabezas.exe
+D:\Documentos Nov 2011\IA\Razonamientos Hacia Adelante y Hacia Atras\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\WinAppRompecabezas\bin\Debug\WinAppRompecabezas.pdb
+D:\Documentos Nov 2011\IA\Razonamientos Hacia Adelante y Hacia Atras\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\WinAppRompecabezas\bin\Debug\ComponenteJuego.dll
+D:\Documentos Nov 2011\IA\Razonamientos Hacia Adelante y Hacia Atras\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\WinAppRompecabezas\bin\Debug\ComponenteJuego.pdb
+D:\Documentos Nov 2011\IA\Razonamientos Hacia Adelante y Hacia Atras\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\WinAppRompecabezas\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documentos Nov 2011\IA\Razonamientos Hacia Adelante y Hacia Atras\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\WinAppRompecabezas\obj\x86\Debug\WinAppRompecabezas.frmAcercaDe.resources
+D:\Documentos Nov 2011\IA\Razonamientos Hacia Adelante y Hacia Atras\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\WinAppRompecabezas\obj\x86\Debug\WinAppRompecabezas.frmConfiguracion.resources
+D:\Documentos Nov 2011\IA\Razonamientos Hacia Adelante y Hacia Atras\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\WinAppRompecabezas\obj\x86\Debug\WinAppRompecabezas.frmContenido.resources
+D:\Documentos Nov 2011\IA\Razonamientos Hacia Adelante y Hacia Atras\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\WinAppRompecabezas\obj\x86\Debug\WinAppRompecabezas.frmRompecabezas.resources
+D:\Documentos Nov 2011\IA\Razonamientos Hacia Adelante y Hacia Atras\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\WinAppRompecabezas\obj\x86\Debug\WinAppRompecabezas.Properties.Resources.resources
+D:\Documentos Nov 2011\IA\Razonamientos Hacia Adelante y Hacia Atras\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\WinAppRompecabezas\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Documentos Nov 2011\IA\Razonamientos Hacia Adelante y Hacia Atras\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\WinAppRompecabezas\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Cesar\Desktop\Documentos Septiembre 2012\Tesis CV\IA\Razonamientos Hacia Adelante y Hacia Atras\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\WinAppRompecabezas\obj\x86\Debug\WinAppRompecabezas.exe
+C:\Users\Cesar\Desktop\Documentos Septiembre 2012\Tesis CV\IA\Razonamientos Hacia Adelante y Hacia Atras\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\WinAppRompecabezas\obj\x86\Debug\WinAppRompecabezas.pdb
+C:\Users\Cesar\Desktop\Documentos Septiembre 2012\Tesis CV\IA\Razonamientos Hacia Adelante y Hacia Atras\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\WinAppRompecabezas\bin\Debug\WinAppRompecabezas.exe
+C:\Users\Cesar\Desktop\Documentos Septiembre 2012\Tesis CV\IA\Razonamientos Hacia Adelante y Hacia Atras\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\WinAppRompecabezas\bin\Debug\WinAppRompecabezas.pdb
+C:\Users\Cesar\Desktop\Documentos Septiembre 2012\Tesis CV\IA\Razonamientos Hacia Adelante y Hacia Atras\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\WinAppRompecabezas\bin\Debug\ComponenteJuego.dll
+C:\Users\Cesar\Desktop\Documentos Septiembre 2012\Tesis CV\IA\Razonamientos Hacia Adelante y Hacia Atras\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\WinAppRompecabezas\bin\Debug\ComponenteJuego.pdb
+C:\Users\Cesar\Desktop\Documentos Septiembre 2012\Tesis CV\IA\Razonamientos Hacia Adelante y Hacia Atras\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\WinAppRompecabezas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Cesar\Desktop\Documentos Septiembre 2012\Tesis CV\IA\Razonamientos Hacia Adelante y Hacia Atras\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\WinAppRompecabezas\obj\x86\Debug\WinAppRompecabezas.frmAcercaDe.resources
+C:\Users\Cesar\Desktop\Documentos Septiembre 2012\Tesis CV\IA\Razonamientos Hacia Adelante y Hacia Atras\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\WinAppRompecabezas\obj\x86\Debug\WinAppRompecabezas.frmConfiguracion.resources
+C:\Users\Cesar\Desktop\Documentos Septiembre 2012\Tesis CV\IA\Razonamientos Hacia Adelante y Hacia Atras\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\WinAppRompecabezas\obj\x86\Debug\WinAppRompecabezas.frmContenido.resources
+C:\Users\Cesar\Desktop\Documentos Septiembre 2012\Tesis CV\IA\Razonamientos Hacia Adelante y Hacia Atras\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\WinAppRompecabezas\obj\x86\Debug\WinAppRompecabezas.frmRompecabezas.resources
+C:\Users\Cesar\Desktop\Documentos Septiembre 2012\Tesis CV\IA\Razonamientos Hacia Adelante y Hacia Atras\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\WinAppRompecabezas\obj\x86\Debug\WinAppRompecabezas.Properties.Resources.resources
+C:\Users\Cesar\Desktop\Documentos Septiembre 2012\Tesis CV\IA\Razonamientos Hacia Adelante y Hacia Atras\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\WinAppRompecabezas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Cesar\Desktop\Documentos Septiembre 2012\Tesis CV\IA\Razonamientos Hacia Adelante y Hacia Atras\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\WinAppRompecabezas\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Cesar\Desktop\Documentos Septiembre 2012\Tesis CV\IA\Razonamientos Hacia Adelante y Hacia Atras\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\WinAppRompecabezas\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Cesar\Desktop\Documentos Septiembre 2012\Tesis CV\IA\Razonamientos Hacia Adelante y Hacia Atras\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\WinAppRompecabezas\bin\Debug\Interop.WMPLib.dll
+C:\Users\Cesar\Desktop\Documentos Septiembre 2012\Tesis CV\IA\Razonamientos Hacia Adelante y Hacia Atras\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\WinAppRompecabezas\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Cesar\Desktop\Documentos Septiembre 2012\Tesis CV\IA\Razonamientos Hacia Adelante y Hacia Atras\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\WinAppRompecabezas\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Cesar\Desktop\Documentos Septiembre 2012\Tesis CV\IA\Razonamientos Hacia Adelante y Hacia Atras\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\WinAppRompecabezas\obj\x86\Debug\WinAppRompecabezas.csproj.ResolveComReference.cache
+C:\Users\Team Solutions\Desktop\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\WinAppRompecabezas\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Team Solutions\Desktop\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\WinAppRompecabezas\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Team Solutions\Desktop\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\WinAppRompecabezas\obj\x86\Debug\WinAppRompecabezas.csproj.ResolveComReference.cache
+C:\Users\Team Solutions\Desktop\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\WinAppRompecabezas\obj\x86\Debug\WinAppRompecabezas.exe
+C:\Users\Team Solutions\Desktop\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\WinAppRompecabezas\obj\x86\Debug\WinAppRompecabezas.pdb
+C:\Users\Team Solutions\Desktop\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\WinAppRompecabezas\bin\Debug\WinAppRompecabezas.exe
+C:\Users\Team Solutions\Desktop\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\WinAppRompecabezas\bin\Debug\WinAppRompecabezas.pdb
+C:\Users\Team Solutions\Desktop\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\WinAppRompecabezas\bin\Debug\ComponenteJuego.dll
+C:\Users\Team Solutions\Desktop\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\WinAppRompecabezas\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Team Solutions\Desktop\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\WinAppRompecabezas\bin\Debug\Interop.WMPLib.dll
+C:\Users\Team Solutions\Desktop\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\WinAppRompecabezas\bin\Debug\ComponenteJuego.pdb
+C:\Users\Team Solutions\Desktop\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\WinAppRompecabezas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Team Solutions\Desktop\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\WinAppRompecabezas\obj\x86\Debug\WinAppRompecabezas.frmAcercaDe.resources
+C:\Users\Team Solutions\Desktop\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\WinAppRompecabezas\obj\x86\Debug\WinAppRompecabezas.frmConfiguracion.resources
+C:\Users\Team Solutions\Desktop\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\WinAppRompecabezas\obj\x86\Debug\WinAppRompecabezas.frmContenido.resources
+C:\Users\Team Solutions\Desktop\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\WinAppRompecabezas\obj\x86\Debug\WinAppRompecabezas.frmRompecabezas.resources
+C:\Users\Team Solutions\Desktop\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\WinAppRompecabezas\obj\x86\Debug\WinAppRompecabezas.Properties.Resources.resources
+C:\Users\Team Solutions\Desktop\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\WinAppRompecabezas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Team Solutions\Desktop\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\WinAppRompecabezas\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Team Solutions\Desktop\Personal\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\WinAppRompecabezas\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Team Solutions\Desktop\Personal\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\WinAppRompecabezas\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Team Solutions\Desktop\Personal\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\WinAppRompecabezas\obj\x86\Debug\WinAppRompecabezas.csproj.ResolveComReference.cache
+C:\Users\Team Solutions\Desktop\Personal\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\WinAppRompecabezas\obj\x86\Debug\WinAppRompecabezas.exe
+C:\Users\Team Solutions\Desktop\Personal\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\WinAppRompecabezas\obj\x86\Debug\WinAppRompecabezas.pdb
+C:\Users\Marcelo\Desktop\Tesis\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\WinAppRompecabezas\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Marcelo\Desktop\Tesis\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\WinAppRompecabezas\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Marcelo\Desktop\Tesis\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\WinAppRompecabezas\obj\x86\Debug\WinAppRompecabezas.csproj.ResolveComReference.cache
+C:\Users\Marcelo\Desktop\Tesis\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\WinAppRompecabezas\obj\x86\Debug\WinAppRompecabezas.exe
+C:\Users\Marcelo\Desktop\Tesis\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\WinAppRompecabezas\obj\x86\Debug\WinAppRompecabezas.pdb
+C:\Users\Marcelo\Desktop\Tesis\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\WinAppRompecabezas\bin\Debug\WinAppRompecabezas.exe
+C:\Users\Marcelo\Desktop\Tesis\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\WinAppRompecabezas\bin\Debug\WinAppRompecabezas.pdb
+C:\Users\Marcelo\Desktop\Tesis\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\WinAppRompecabezas\bin\Debug\ComponenteJuego.dll
+C:\Users\Marcelo\Desktop\Tesis\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\WinAppRompecabezas\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Marcelo\Desktop\Tesis\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\WinAppRompecabezas\bin\Debug\Interop.WMPLib.dll
+C:\Users\Marcelo\Desktop\Tesis\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\WinAppRompecabezas\bin\Debug\ComponenteJuego.pdb
+C:\Users\Marcelo\Desktop\Tesis\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\WinAppRompecabezas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Marcelo\Desktop\Tesis\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\WinAppRompecabezas\obj\x86\Debug\WinAppRompecabezas.frmAcercaDe.resources
+C:\Users\Marcelo\Desktop\Tesis\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\WinAppRompecabezas\obj\x86\Debug\WinAppRompecabezas.frmConfiguracion.resources
+C:\Users\Marcelo\Desktop\Tesis\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\WinAppRompecabezas\obj\x86\Debug\WinAppRompecabezas.frmContenido.resources
+C:\Users\Marcelo\Desktop\Tesis\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\WinAppRompecabezas\obj\x86\Debug\WinAppRompecabezas.frmRompecabezas.resources
+C:\Users\Marcelo\Desktop\Tesis\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\WinAppRompecabezas\obj\x86\Debug\WinAppRompecabezas.Properties.Resources.resources
+C:\Users\Marcelo\Desktop\Tesis\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\WinAppRompecabezas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Marcelo\Desktop\Tesis\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\WinAppRompecabezas\obj\x86\Debug\GenerateResource.write.1.tlog

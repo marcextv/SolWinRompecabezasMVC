@@ -1,0 +1,37 @@
+C:\Users\Cesar\Desktop\Documentos Nov 2011\IA\Razonamientos Hacia Adelante y Hacia Atras\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\ComponenteJuego\bin\Debug\ComponenteJuego.dll
+C:\Users\Cesar\Desktop\Documentos Nov 2011\IA\Razonamientos Hacia Adelante y Hacia Atras\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\ComponenteJuego\bin\Debug\ComponenteJuego.pdb
+C:\Users\Cesar\Desktop\Documentos Nov 2011\IA\Razonamientos Hacia Adelante y Hacia Atras\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\ComponenteJuego\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Cesar\Desktop\Documentos Nov 2011\IA\Razonamientos Hacia Adelante y Hacia Atras\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\ComponenteJuego\obj\Debug\ComponenteJuego.dll
+C:\Users\Cesar\Desktop\Documentos Nov 2011\IA\Razonamientos Hacia Adelante y Hacia Atras\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\ComponenteJuego\obj\Debug\ComponenteJuego.pdb
+D:\Documentos Nov 2011\IA\Razonamientos Hacia Adelante y Hacia Atras\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\ComponenteJuego\bin\Debug\ComponenteJuego.dll
+D:\Documentos Nov 2011\IA\Razonamientos Hacia Adelante y Hacia Atras\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\ComponenteJuego\bin\Debug\ComponenteJuego.pdb
+D:\Documentos Nov 2011\IA\Razonamientos Hacia Adelante y Hacia Atras\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\ComponenteJuego\obj\Debug\ResolveAssemblyReference.cache
+D:\Documentos Nov 2011\IA\Razonamientos Hacia Adelante y Hacia Atras\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\ComponenteJuego\obj\Debug\ComponenteJuego.dll
+D:\Documentos Nov 2011\IA\Razonamientos Hacia Adelante y Hacia Atras\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\ComponenteJuego\obj\Debug\ComponenteJuego.pdb
+C:\Users\Cesar\Desktop\Documentos Septiembre 2012\Tesis CV\IA\Razonamientos Hacia Adelante y Hacia Atras\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\ComponenteJuego\bin\Debug\ComponenteJuego.dll
+C:\Users\Cesar\Desktop\Documentos Septiembre 2012\Tesis CV\IA\Razonamientos Hacia Adelante y Hacia Atras\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\ComponenteJuego\bin\Debug\ComponenteJuego.pdb
+C:\Users\Cesar\Desktop\Documentos Septiembre 2012\Tesis CV\IA\Razonamientos Hacia Adelante y Hacia Atras\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\ComponenteJuego\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Cesar\Desktop\Documentos Septiembre 2012\Tesis CV\IA\Razonamientos Hacia Adelante y Hacia Atras\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\ComponenteJuego\obj\Debug\ComponenteJuego.dll
+C:\Users\Cesar\Desktop\Documentos Septiembre 2012\Tesis CV\IA\Razonamientos Hacia Adelante y Hacia Atras\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\ComponenteJuego\obj\Debug\ComponenteJuego.pdb
+C:\Users\Cesar\Desktop\Documentos Septiembre 2012\Tesis CV\IA\Razonamientos Hacia Adelante y Hacia Atras\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\ComponenteJuego\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Cesar\Desktop\Documentos Septiembre 2012\Tesis CV\IA\Razonamientos Hacia Adelante y Hacia Atras\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\ComponenteJuego\bin\Debug\Interop.WMPLib.dll
+C:\Users\Cesar\Desktop\Documentos Septiembre 2012\Tesis CV\IA\Razonamientos Hacia Adelante y Hacia Atras\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\ComponenteJuego\obj\Debug\Interop.WMPLib.dll
+C:\Users\Cesar\Desktop\Documentos Septiembre 2012\Tesis CV\IA\Razonamientos Hacia Adelante y Hacia Atras\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\ComponenteJuego\obj\Debug\ComponenteJuego.csproj.ResolveComReference.cache
+C:\Users\Team Solutions\Desktop\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\ComponenteJuego\bin\Debug\ComponenteJuego.dll
+C:\Users\Team Solutions\Desktop\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\ComponenteJuego\bin\Debug\ComponenteJuego.pdb
+C:\Users\Team Solutions\Desktop\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\ComponenteJuego\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Team Solutions\Desktop\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\ComponenteJuego\bin\Debug\Interop.WMPLib.dll
+C:\Users\Team Solutions\Desktop\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\ComponenteJuego\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Team Solutions\Desktop\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\ComponenteJuego\obj\Debug\Interop.WMPLib.dll
+C:\Users\Team Solutions\Desktop\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\ComponenteJuego\obj\Debug\ComponenteJuego.csproj.ResolveComReference.cache
+C:\Users\Team Solutions\Desktop\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\ComponenteJuego\obj\Debug\ComponenteJuego.dll
+C:\Users\Team Solutions\Desktop\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\ComponenteJuego\obj\Debug\ComponenteJuego.pdb
+C:\Users\Marcelo\Desktop\Tesis\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\ComponenteJuego\bin\Debug\ComponenteJuego.dll
+C:\Users\Marcelo\Desktop\Tesis\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\ComponenteJuego\bin\Debug\ComponenteJuego.pdb
+C:\Users\Marcelo\Desktop\Tesis\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\ComponenteJuego\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Marcelo\Desktop\Tesis\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\ComponenteJuego\bin\Debug\Interop.WMPLib.dll
+C:\Users\Marcelo\Desktop\Tesis\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\ComponenteJuego\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Marcelo\Desktop\Tesis\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\ComponenteJuego\obj\Debug\Interop.WMPLib.dll
+C:\Users\Marcelo\Desktop\Tesis\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\ComponenteJuego\obj\Debug\ComponenteJuego.csproj.ResolveComReference.cache
+C:\Users\Marcelo\Desktop\Tesis\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\ComponenteJuego\obj\Debug\ComponenteJuego.dll
+C:\Users\Marcelo\Desktop\Tesis\Rompecabezas 15-Puzzle\SolWinRompecabezasMVC\ComponenteJuego\obj\Debug\ComponenteJuego.pdb
